@@ -3,3 +3,10 @@ remote_theme: benbalter/retlab
 
 title: PChemGuy
 description: Physical Chemist, STEM admirer
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-github-metadata
+  - jekyll-feed
