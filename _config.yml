@@ -1,5 +1,6 @@
 #theme: jekyll-theme-slate
 remote_theme: benbalter/retlab
+minimal_mistakes_skin: "air"
 
 title: PChemGuy
 description: Physical Chemist, STEM admirer
