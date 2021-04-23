@@ -4,7 +4,7 @@ Recently, I have started exploring my idea of a new research metadata/knowledge 
 
 Below are links to some of my project pages.
 
-[SQLite-ICU-MinGW](https://pchemguy.github.io/SQLite-ICU-MinGW)
+[SQLite-ICU-MinGW](https://pchemguy.github.io/SQLite-ICU-MinGW)  
 [SecureADODB Fork](https://pchemguy.github.io/RDVBA-examples)  
 [CSVParser](https://pchemguy.github.io/CSVParser)  
 [RDVBA Project Utils](https://pchemguy.github.io/RDVBA-Project-Utils)  
