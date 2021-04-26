@@ -6,6 +6,5 @@ Below are links to some of my project pages.
 
 [SQLite-ICU-MinGW](https://pchemguy.github.io/SQLite-ICU-MinGW)  
 [SecureADODB Fork](https://pchemguy.github.io/SecureADODB-Fork)  
-[CSVParser](https://pchemguy.github.io/CSVParser)  
 [RDVBA Project Utils](https://pchemguy.github.io/RDVBA-Project-Utils)  
 [Contact Editor](https://pchemguy.github.io/ContactEditor)  
