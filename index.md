@@ -7,4 +7,4 @@ Below are links to some of my project pages.
 [SQLite-ICU-MinGW](https://pchemguy.github.io/SQLite-ICU-MinGW)  
 [SecureADODB Fork](https://pchemguy.github.io/SecureADODB-Fork)  
 [RDVBA Project Utils](https://pchemguy.github.io/RDVBA-Project-Utils)  
-[Contact Editor](https://pchemguy.github.io/ContactEditor)  
+[Contact Editor](https://pchemguy.github.io/ContactEditor) - Demo VBA application/template illustrating MVP design pattern backed by persistent storage  
