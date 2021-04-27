@@ -4,7 +4,7 @@ Recently, I have started exploring my idea of a new research metadata/knowledge 
 
 Below are links to some of my project pages.
 
-[SQLite-ICU-MinGW](https://pchemguy.github.io/SQLite-ICU-MinGW)  
-[SecureADODB Fork](https://pchemguy.github.io/SecureADODB-Fork)  
+[SQLite-ICU-MinGW](https://pchemguy.github.io/SQLite-ICU-MinGW) - How to compile SQLite with ICU on Windows with MinGW  
 [RDVBA Project Utils](https://pchemguy.github.io/RDVBA-Project-Utils) - RDVBA extension that syncs RDVBA project structure and active references with project folder  
 [Contact Editor](https://pchemguy.github.io/ContactEditor) - Demo VBA application/template illustrating MVP design pattern backed by persistent storage  
+[SecureADODB Fork](https://pchemguy.github.io/SecureADODB-Fork) - Modified SecureADODB example  
