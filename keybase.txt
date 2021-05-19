@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pchemguy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pchemguy.github.io
+  * I am pchemguy (https://keybase.io/pchemguy) on keybase.
+  * I have a public key ASBFkoEjqXrFoslg2uhfEkX0bHWc3MEBY5wy6KY6nVRhhgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012041f2577aaf5e6596ca382bf014557b98e6a6ef867ce672a885072028c2e4706a0a",
+      "host": "keybase.io",
+      "kid": "012045928123a97ac5a2c960dae85f1245f46c759cdcc101639c32e8a63a9d5461860a",
+      "uid": "fbd67597679bb4ef27fe3b782261fe19",
+      "username": "pchemguy"
+    },
+    "merkle_root": {
+      "ctime": 1621434846,
+      "hash": "794bc307374936f3331f24f9f32eb31c526cc54dc7d5717b939797c2ef878d1704682d04efcf880e569f6648698ed906920104316c1c0155a7172c537d08c11c",
+      "hash_meta": "75869e129d17fc0686bc6e2678f4afe26c1a80839f98726b2d65f31e13494038",
+      "seqno": 19988339
+    },
+    "service": {
+      "entropy": "Fbs/FeP9ClBpJO9WT0Nl6Dkr",
+      "hostname": "pchemguy.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1621434935,
+  "expire_in": 504576000,
+  "prev": "324d94b04334b78aed4c6a4b4aace1ed2b01e3c5dc94a6f664556a56c66f19cc",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRZKBI6l6xaLJYNroXxJF9Gx1nNzBAWOcMuimOp1UYYYKp3BheWxvYWTESpcCEsQgMk2UsEM0t4rtTGpLSqzh7SsB48XclKb2ZFVqVsZvGczEIE3XK3HoOh8UPy7A+unmzuXF7I4163DFANypnElel738AgHCo3NpZ8RAoQ8SpRUpkxHwzvkAiXlJDd83qeq0Nh7YRfIxqAmNFFjYAseL2DjfwinJdQooK3zuQcmUTJ+xcJzVJAZELqElBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBmbAKgXyM16oR+h9AM37sH71U7AY7WBxDd0JyUVC4LXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pchemguy
+
+==================================================================
