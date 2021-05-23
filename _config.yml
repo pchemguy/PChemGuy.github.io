@@ -3,5 +3,8 @@ remote_theme: benbalter/retlab
 
 title: "PChemGuy"
 
+google_analytics: UA-197722197-1
+
 # Plugins
 plugins:
+  - jekyll-seo-tag
