@@ -3,7 +3,7 @@ remote_theme: benbalter/retlab
 
 title: "PChemGuy"
 
-# Google Analytics Tracking (optional)
+# Google Analytics Tracking
 google_analytics: "UA-197722197-1"
 ga_tracking: "UA-197722197-1"
 
