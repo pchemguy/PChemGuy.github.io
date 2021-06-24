@@ -1,4 +1,4 @@
-https://pchemguy.github.io
+https://pchemguy.github.io/
 https://pchemguy.github.io/ContactEditor/
 https://pchemguy.github.io/ContactEditor/backends
 https://pchemguy.github.io/ContactEditor/backends/adodb
