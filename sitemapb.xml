@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-  <url><loc>https://pchemguy.github.io/</loc></url>
+  <url><loc>https://pchemguy.github.io</loc></url>
   <url><loc>https://pchemguy.github.io/ContactEditor/</loc></url>
   <url><loc>https://pchemguy.github.io/ContactEditor/backends</loc></url>
   <url><loc>https://pchemguy.github.io/ContactEditor/backends/adodb</loc></url>
@@ -16,7 +16,6 @@
   <url><loc>https://pchemguy.github.io/ContactEditor/class-design/intro-to-interfaces</loc></url>
   <url><loc>https://pchemguy.github.io/ContactEditor/data-model</loc></url>
   <url><loc>https://pchemguy.github.io/ContactEditor/main-form</loc></url>
-  <url><loc>https://pchemguy.github.io/RDVBA-Project-Utils/</loc></url>
   <url><loc>https://pchemguy.github.io/SQLite-ICU-MinGW/</loc></url>
   <url><loc>https://pchemguy.github.io/SQLite-ICU-MinGW/alternative</loc></url>
   <url><loc>https://pchemguy.github.io/SQLite-ICU-MinGW/defaultbuild</loc></url>
@@ -25,4 +24,5 @@
   <url><loc>https://pchemguy.github.io/SQLite-ICU-MinGW/odbc</loc></url>
   <url><loc>https://pchemguy.github.io/SQLite-ICU-MinGW/source</loc></url>
   <url><loc>https://pchemguy.github.io/SecureADODB-Fork/</loc></url>
+  <url><loc>https://pchemguy.github.io/RDVBA-Project-Utils/</loc></url>
 </urlset>
