@@ -1,101 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
-<url>
-  <loc>https://pchemguy.github.io/</loc>
-  <lastmod>2021-05-24T09:44:17+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/</loc>
-  <lastmod>2021-05-24T14:02:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/RDVBA-Project-Utils/</loc>
-  <lastmod>2021-05-24T14:32:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/ContactEditor/</loc>
-  <lastmod>2021-05-24T14:28:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SecureADODB-Fork/</loc>
-  <lastmod>2021-05-24T14:37:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/devenv</loc>
-  <lastmod>2021-05-24T14:02:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/source</loc>
-  <lastmod>2021-05-24T14:02:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/defaultbuild</loc>
-  <lastmod>2021-05-24T14:02:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/icubuild</loc>
-  <lastmod>2021-05-24T14:02:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/alternative</loc>
-  <lastmod>2021-05-24T14:02:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/odbc</loc>
-  <lastmod>2021-05-24T14:02:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/ContactEditor/class-design</loc>
-  <lastmod>2021-05-24T14:28:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/ContactEditor/data-model</loc>
-  <lastmod>2021-05-24T14:28:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/ContactEditor/main-form</loc>
-  <lastmod>2021-05-24T14:28:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/ContactEditor/backends</loc>
-  <lastmod>2021-05-24T14:28:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/ContactEditor/backends/worksheet</loc>
-  <lastmod>2021-05-24T14:28:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/ContactEditor/backends/csv</loc>
-  <lastmod>2021-05-24T14:28:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/ContactEditor/backends/adodb</loc>
-  <lastmod>2021-05-24T14:28:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
-</urlset>
+<?xml version='1.0' encoding='UTF-8'?><urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://pchemguy.github.io/</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/backends</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/backends/adodb</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/backends/csv</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/backends/worksheet</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/class-design</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/class-design/abstract-factory</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/class-design/code-extensibility</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/class-design/factory-constructor</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/class-design/factory-multiple-interfaces</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/class-design/factory-return-type</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/class-design/interface-switching</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/class-design/intro-to-interfaces</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/data-model</loc></url>
+<url><loc>https://pchemguy.github.io/ContactEditor/main-form</loc></url>
+<url><loc>https://pchemguy.github.io/RDVBA-Project-Utils/</loc></url>
+<url><loc>https://pchemguy.github.io/SQLite-ICU-MinGW/</loc></url>
+<url><loc>https://pchemguy.github.io/SQLite-ICU-MinGW/alternative</loc></url>
+<url><loc>https://pchemguy.github.io/SQLite-ICU-MinGW/defaultbuild</loc></url>
+<url><loc>https://pchemguy.github.io/SQLite-ICU-MinGW/devenv</loc></url>
+<url><loc>https://pchemguy.github.io/SQLite-ICU-MinGW/icubuild</loc></url>
+<url><loc>https://pchemguy.github.io/SQLite-ICU-MinGW/odbc</loc></url>
+<url><loc>https://pchemguy.github.io/SQLite-ICU-MinGW/source</loc></url>
+<url><loc>https://pchemguy.github.io/SecureADODB-Fork/</loc></url></urlset>
