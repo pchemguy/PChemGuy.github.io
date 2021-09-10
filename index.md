@@ -4,10 +4,10 @@ Recently, I have started exploring my idea of a new research metadata/knowledge 
 
 Below are links to some of my project pages.
 
+[ContactEditor](https://pchemguy.github.io/ContactEditor/) - Demo VBA application illustrating MVP design pattern backed by persistent storage  
+[SecureADODB Fork](https://pchemguy.github.io/ContactEditor/secure-adodb) - Modified SecureADODB example
 [SQLite-ICU-MinGW](https://pchemguy.github.io/SQLite-ICU-MinGW/) - How to compile SQLite with ICU and SQLiteODBC on Windows with MinGW  
 [SQLiteDB VBA Library](https://pchemguy.github.io/SQLiteDB-VBA-Library/) - SQL-query-based SQLite introspection library for VBA  
 [RDVBA Project Utils](https://pchemguy.github.io/RDVBA-Project-Utils/) - RDVBA extension syncing IDE/on-disk project structure and active references  
-[ContactEditor](https://pchemguy.github.io/ContactEditor/) - Demo VBA application illustrating MVP design pattern backed by persistent storage  
-[SecureADODB Fork](https://pchemguy.github.io/ContactEditor/secure-adodb) - Modified SecureADODB example
 
 [CAD Models](https://grabcad.com/pchem.guy-1/models) - I can share some of my CAD models at [GrabCAD](https://grabcad.com).
