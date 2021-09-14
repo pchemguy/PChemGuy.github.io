@@ -1,154 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-	<loc>https://pchemguy.github.io/</loc>
-	<lastmod>2021-09-03T19:51:25+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://pchemguy.github.io/</loc>
+  <lastmod>2021-09-11T19:06:53+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/SQLite-ICU-MinGW/</loc>
-	<lastmod>2021-09-03T19:51:25+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/SQLiteDB-VBA-Library/</loc>
-	<lastmod>2021-09-03T19:51:28+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/SecureADODB-Fork/</loc>
+  <lastmod>2021-09-14T06:23:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/RDVBA-Project-Utils/</loc>
-	<lastmod>2021-09-03T19:51:28+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/</loc>
+  <lastmod>2021-09-11T11:44:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/</loc>
-	<lastmod>2021-09-03T19:51:29+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/SQLiteDB-VBA-Library/</loc>
+  <lastmod>2021-08-18T13:01:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/SecureADODB-Fork/</loc>
-	<lastmod>2021-09-03T19:51:29+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/RDVBA-Project-Utils/</loc>
+  <lastmod>2021-05-25T08:58:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/SQLite-ICU-MinGW/devenv</loc>
-	<lastmod>2021-09-03T19:51:29+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/mvp</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/SQLite-ICU-MinGW/source</loc>
-	<lastmod>2021-09-03T19:51:30+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/storage-library</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/SQLite-ICU-MinGW/defaultbuild</loc>
-	<lastmod>2021-09-03T19:51:32+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/storage-library/overview</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/SQLite-ICU-MinGW/icubuild</loc>
-	<lastmod>2021-09-03T19:51:30+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/storage-library/implementation-details</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/SQLite-ICU-MinGW/alternative</loc>
-	<lastmod>2021-09-03T19:51:30+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/backends</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/SQLite-ICU-MinGW/odbc</loc>
-	<lastmod>2021-09-03T19:51:31+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/backends/factory</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/mvp</loc>
-	<lastmod>2021-09-03T19:51:31+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/backends/worksheet</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/storage-library</loc>
-	<lastmod>2021-09-03T19:51:31+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/backends/csv</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/storage-library/overview</loc>
-	<lastmod>2021-09-03T19:51:32+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/backends/adodb</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/storage-library/implementation-details</loc>
-	<lastmod>2021-09-03T19:51:32+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/backends/secureadodb</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/backends</loc>
-	<lastmod>2021-09-03T19:51:32+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/class-design</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/backends/factory</loc>
-	<lastmod>2021-09-03T19:51:32+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/class-design/project-structure</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/backends/worksheet</loc>
-	<lastmod>2021-09-03T19:51:32+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/class-design/factory-constructor</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/backends/csv</loc>
-	<lastmod>2021-09-03T19:51:33+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/class-design/abstract-factory</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/backends/adodb</loc>
-	<lastmod>2021-09-03T19:51:33+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/class-design/intro-to-interfaces</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/backends/secureadodb</loc>
-	<lastmod>2021-09-03T19:51:33+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/class-design/interface-switching</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/class-design</loc>
-	<lastmod>2021-09-03T19:51:33+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/class-design/factory-return-type</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/class-design/factory-constructor</loc>
-	<lastmod>2021-09-03T19:51:33+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/class-design/factory-multiple-interfaces</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/class-design/abstract-factory</loc>
-	<lastmod>2021-09-03T19:51:33+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://pchemguy.github.io/ContactEditor/class-design/code-extensibility</loc>
+  <lastmod>2021-09-11T20:27:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/class-design/intro-to-interfaces</loc>
-	<lastmod>2021-09-03T19:51:35+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://pchemguy.github.io/SecureADODB-Fork/query-parameters</loc>
+  <lastmod>2021-09-14T06:23:04+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/class-design/interface-switching</loc>
-	<lastmod>2021-09-03T19:51:33+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://pchemguy.github.io/SecureADODB-Fork/dbrecordset</loc>
+  <lastmod>2021-09-14T06:23:04+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/class-design/factory-return-type</loc>
-	<lastmod>2021-09-03T19:51:34+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/devenv</loc>
+  <lastmod>2021-09-11T11:44:29+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/class-design/factory-multiple-interfaces</loc>
-	<lastmod>2021-09-03T19:51:33+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/source</loc>
+  <lastmod>2021-09-11T11:44:29+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://pchemguy.github.io/ContactEditor/class-design/code-extensibility</loc>
-	<lastmod>2021-09-03T19:51:34+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/defaultbuild</loc>
+  <lastmod>2021-09-11T11:44:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/icubuild</loc>
+  <lastmod>2021-09-11T11:44:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/alternative</loc>
+  <lastmod>2021-09-11T11:44:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/odbc</loc>
+  <lastmod>2021-09-11T11:44:29+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 </urlset>
