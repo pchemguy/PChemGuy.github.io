@@ -18,5 +18,5 @@ Below are links to some of my project pages.
 [SecureADODB Fork]: https://pchemguy.github.io/SecureADODB-Fork/
 [SQLite-ICU-MinGW]: https://pchemguy.github.io/SQLite-ICU-MinGW/
 [SQLiteDB VBA Library]: https://pchemguy.github.io/SQLiteDB-VBA-Library/
-[SQLiteC for VBA]: https://github.com/pchemguy/SQLiteC-for-VBA
+[SQLiteC for VBA]: https://pchemguy.github.io/SQLiteC-for-VBA/
 [RDVBA Project Utils]: https://pchemguy.github.io/RDVBA-Project-Utils/
