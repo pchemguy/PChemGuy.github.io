@@ -6,7 +6,7 @@ Below are links to some of my project pages.
 
 [ContactEditor][] - Demo VBA application illustrating MVP design pattern backed by persistent storage  
 [SecureADODB Fork][] - Modified SecureADODB example  
-[[ObjectStore][] - Circular reference management in VBA
+[ObjectStore][] - Circular reference management in VBA  
 [SQLite-ICU-MinGW][] - How to compile SQLite with ICU and SQLiteODBC on Windows with MinGW  
 [SQLiteC for VBA][] - Exploration of the C-language SQLite API in VBA  
 [RDVBA Project Utils][] - RDVBA extension syncing IDE/on-disk project structure and active references  
