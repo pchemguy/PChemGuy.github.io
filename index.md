@@ -6,8 +6,8 @@ Below are links to some of my project pages.
 
 [ContactEditor][] - Demo VBA application illustrating MVP design pattern backed by persistent storage  
 [SecureADODB Fork][] - Modified SecureADODB example  
+[[ObjectStore][] - Circular reference management in VBA
 [SQLite-ICU-MinGW][] - How to compile SQLite with ICU and SQLiteODBC on Windows with MinGW  
-[SQLiteDB VBA Library][] - SQL-query-based SQLite introspection library for VBA  
 [SQLiteC for VBA][] - Exploration of the C-language SQLite API in VBA  
 [RDVBA Project Utils][] - RDVBA extension syncing IDE/on-disk project structure and active references  
 
@@ -16,7 +16,10 @@ Below are links to some of my project pages.
 
 [ContactEditor]: https://pchemguy.github.io/ContactEditor/
 [SecureADODB Fork]: https://pchemguy.github.io/SecureADODB-Fork/
+[ObjectStore]: https://pchemguy.github.io/ObjectStore/
 [SQLite-ICU-MinGW]: https://pchemguy.github.io/SQLite-ICU-MinGW/
-[SQLiteDB VBA Library]: https://pchemguy.github.io/SQLiteDB-VBA-Library/
 [SQLiteC for VBA]: https://pchemguy.github.io/SQLiteC-for-VBA/
 [RDVBA Project Utils]: https://pchemguy.github.io/RDVBA-Project-Utils/
+
+<!-- SQLiteDB VBA Library - SQL-query-based SQLite introspection library for VBA -->
+<!-- [SQLiteDB VBA Library]: https://pchemguy.github.io/SQLiteDB-VBA-Library/ -->
