@@ -5,11 +5,11 @@ Recently, I have started exploring my idea of a new research metadata/knowledge 
 Below are links to some of my project pages.
 
 [ContactEditor][] - Demo VBA application illustrating MVP design pattern backed by persistent storage  
+[SQLiteCAdoReflectVBA][SQLiteC for VBA] - SQLite library for VBA wrapping ADODB and SQLite C-language API  
 [SecureADODB Fork][] - Modified SecureADODB example  
 [ObjectStore][] - Circular reference management in VBA  
-[DllTools][] - Calling DLL libraries from VBA (DLL management, calling efficiency, custom dll, etc.)
+[DllTools][] - Calling DLL libraries from VBA (DLL management, calling efficiency, custom dll, etc.)  
 [SQLite-ICU-MinGW][] - How to compile SQLite with ICU and SQLiteODBC on Windows with MinGW  
-[SQLiteC for VBA][] - Exploration of the C-language SQLite API in VBA  
 [RDVBA Project Utils][] - RDVBA extension syncing IDE/on-disk project structure and active references  
 
 [CAD Models](https://grabcad.com/pchem.guy-1/models) - I can share some of my CAD models at [GrabCAD](https://grabcad.com).
@@ -22,6 +22,3 @@ Below are links to some of my project pages.
 [SQLite-ICU-MinGW]: https://pchemguy.github.io/SQLite-ICU-MinGW/
 [SQLiteC for VBA]: https://pchemguy.github.io/SQLiteC-for-VBA/
 [RDVBA Project Utils]: https://pchemguy.github.io/RDVBA-Project-Utils/
-
-<!-- SQLiteDB VBA Library - SQL-query-based SQLite introspection library for VBA -->
-<!-- [SQLiteDB VBA Library]: https://pchemguy.github.io/SQLiteDB-VBA-Library/ -->
