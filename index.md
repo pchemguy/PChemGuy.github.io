@@ -8,7 +8,7 @@ Below are links to some of my project pages.
 [SQLiteCAdoReflectVBA][SQLiteC for VBA] - SQLite library for VBA wrapping ADODB and SQLite C-language API  
 [SecureADODB Fork][] - Modified SecureADODB example  
 [ObjectStore][] - Circular reference management in VBA  
-[DllTools][] - Calling DLL libraries from VBA (DLL management, calling efficiency, custom dll, etc.)  
+[DllTools][] - DllManager facilitates VBA function calls to non-system DLL libraries.  
 [SQLite-ICU-MinGW][] - How to compile SQLite with ICU and SQLiteODBC on Windows with MinGW  
 [RDVBA Project Utils][] - RDVBA extension syncing IDE/on-disk project structure and active references  
 
