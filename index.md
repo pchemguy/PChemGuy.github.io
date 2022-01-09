@@ -9,7 +9,7 @@ Below are links to some of my project pages.
 [SecureADODB Fork][] - Modified SecureADODB example  
 [ObjectStore][] - Circular reference management in VBA  
 [DllTools][] - DllManager facilitates VBA function calls to non-system DLL libraries.  
-[SQLite-ICU-MinGW][] - How to compile SQLite with ICU and SQLiteODBC on Windows with MinGW  
+[SQLite-ICU-MinGW][] - Building SQLite/SQLiteODBC on Windows with ICU and other extensions using MSVC and MinGW  
 [RDVBA Project Utils][] - RDVBA extension syncing IDE/on-disk project structure and active references  
 
 [CAD Models](https://grabcad.com/pchem.guy-1/models) - I can share some of my CAD models at [GrabCAD](https://grabcad.com).
