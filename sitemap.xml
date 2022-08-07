@@ -4,9 +4,12 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
   <loc>https://pchemguy.github.io/</loc>
-  <lastmod>2022-01-09T23:47:13+00:00</lastmod>
+  <lastmod>2022-08-07T06:58:44+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
@@ -17,6 +20,16 @@
 <url>
   <loc>https://pchemguy.github.io/SQLiteC-for-VBA/</loc>
   <lastmod>2021-12-25T10:56:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/</loc>
+  <lastmod>2022-01-13T20:21:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -32,11 +45,6 @@
 <url>
   <loc>https://pchemguy.github.io/DllTools/</loc>
   <lastmod>2022-01-09T21:18:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/</loc>
-  <lastmod>2022-01-10T22:04:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -220,6 +228,176 @@
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/meta</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/meta/overview</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/meta/engine</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/meta/db-basic</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/meta/db-derived-cte</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/patterns</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/patterns/decoupling-sql</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/patterns/split-dsv</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/patterns/variables</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/patterns/json-sql-input</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/patterns/json-sql-output</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/patterns/split-fwv</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/patterns/ascii-id</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/patterns/rec-cte</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/patterns/rcte-modify</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/mat-paths</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/mat-paths/design-rules</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/mat-paths/mock-database</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/mat-paths/select-desc</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/mat-paths/select-asc</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/mat-paths/modify</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/mat-paths/create</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/mat-paths/delete</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/mat-paths/move</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/mat-paths/copy</loc>
+  <lastmod>2022-08-07T07:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/introduction</loc>
+  <lastmod>2022-01-13T20:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/devenv</loc>
+  <lastmod>2022-01-13T20:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/defaultbuild</loc>
+  <lastmod>2022-01-13T20:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/building</loc>
+  <lastmod>2022-01-13T20:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/icubuild</loc>
+  <lastmod>2022-01-13T20:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/extra-exts</loc>
+  <lastmod>2022-01-13T20:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/stdcall</loc>
+  <lastmod>2022-01-13T20:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/odbc</loc>
+  <lastmod>2022-01-13T20:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/repo-scripts</loc>
+  <lastmod>2022-01-13T20:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://pchemguy.github.io/SecureADODB-Fork/query-parameters</loc>
   <lastmod>2021-11-06T12:20:45+00:00</lastmod>
   <priority>0.64</priority>
@@ -295,53 +473,30 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/introduction</loc>
-  <lastmod>2022-01-10T22:04:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/devenv</loc>
-  <lastmod>2022-01-10T22:04:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/defaultbuild</loc>
-  <lastmod>2022-01-10T22:04:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/building</loc>
-  <lastmod>2022-01-10T22:04:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/icubuild</loc>
-  <lastmod>2022-01-10T22:04:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/extra-exts</loc>
-  <lastmod>2022-01-10T22:04:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/stdcall</loc>
-  <lastmod>2022-01-10T22:04:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/odbc</loc>
-  <lastmod>2022-01-10T22:04:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pchemguy.github.io/SQLite-ICU-MinGW/repo-scripts</loc>
-  <lastmod>2022-01-10T22:04:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>https://pchemguy.github.io/SQLiteDB-VBA-Library/</loc>
   <lastmod>2021-11-06T12:06:11+00:00</lastmod>
   <priority>0.51</priority>
 </url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/Table%20Columns.html</loc>
+  <lastmod>2022-08-07T07:28:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/Foreign%20Keys.html</loc>
+  <lastmod>2022-08-07T07:28:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/Indices.html</loc>
+  <lastmod>2022-08-07T07:28:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pchemguy.github.io/SQLite-SQL-Tutorial/FKeys%20Child%20Indices.html</loc>
+  <lastmod>2022-08-07T07:28:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
