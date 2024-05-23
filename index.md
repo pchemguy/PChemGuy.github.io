@@ -8,7 +8,7 @@ Below are links to some of my project pages.
 [SQLiteCAdoReflectVBA][SQLiteC for VBA] - SQLite library for VBA wrapping ADODB and SQLite C-language API  
 [SQLite SQL Tutorial][] - Advanced SQL/SQLite tutorial  
 [SQLite-ICU][] - Building SQLite/SQLiteODBC with ICU and other extensions using MSVC and MinGW  
-[][Zotero Data Model]:
+[Exploring Zotero Data Model for Direct Database Access][Zotero Data Model] - Discussion of the Zotero Data Model and sample SQL snippets for retrieving the data.
 [SecureADODB Fork][] - Modified SecureADODB example  
 [ObjectStore][] - Circular reference management in VBA  
 [DllTools][] - DllManager facilitates VBA function calls to non-system DLL libraries.  
