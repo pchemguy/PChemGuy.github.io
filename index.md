@@ -8,10 +8,10 @@ Below are links to some of my project pages.
 [SQLiteCAdoReflectVBA][SQLiteC for VBA] - SQLite library for VBA wrapping ADODB and SQLite C-language API  
 [SQLite SQL Tutorial][] - Advanced SQL/SQLite tutorial  
 [SQLite-ICU][] - Building SQLite/SQLiteODBC with ICU and other extensions using MSVC and MinGW  
-[Exploring Zotero Data Model for Direct Database Access][Zotero Data Model] - Discussion of the Zotero Data Model and sample SQL snippets for retrieving the data.
+[Exploring Zotero Data Model for Direct Database Access][Zotero Data Model] - Discussion of the Zotero Data Model and sample SQL snippets for retrieving the data  
 [SecureADODB Fork][] - Modified SecureADODB example  
 [ObjectStore][] - Circular reference management in VBA  
-[DllTools][] - DllManager facilitates VBA function calls to non-system DLL libraries.  
+[DllTools][] - DllManager facilitates VBA function calls to non-system DLL libraries  
 [RDVBA Project Utils][] - RDVBA extension syncing IDE/on-disk project structure and active references  
 
 [CAD Models](https://grabcad.com/pchem.guy-1/models) - I can share some of my CAD models at [GrabCAD](https://grabcad.com).
